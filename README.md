@@ -26,9 +26,9 @@ As the chief software architect at Lumedhealth, I build digital health and telem
 * [about.me](https://rdiazconcha.me/)
 * [Goodreads](https://goodreads.com/rdiazconcha)
 
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true)
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-300x121.png?raw=true)
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_email_signature_two_b.jpg?raw=true)
+![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true =200x)
+![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-300x121.png?raw=true =200x)
+![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_email_signature_two_b.jpg?raw=true =200x)
 
 <!--
 **rdiazconcha/rdiazconcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
