@@ -1,5 +1,5 @@
 ﻿# Rodrigo Díaz Concha  👋
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_background_c.jpg?raw=true)
+[![Search for my courses on LinkedIn Learning](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_background_c.jpg?raw=true)](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha)
 
 I'm a solutions architect with 20+ years of experience and a member of the Microsoft Regional Director program. I've been awarded as Microsoft MVP for over a decade, currently in the Microsoft Azure category.
 
@@ -27,8 +27,8 @@ As the chief software architect at Lumedhealth, I build digital health and telem
 * [about.me](https://rdiazconcha.me/)
 * [Goodreads](https://goodreads.com/rdiazconcha)
 
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true)
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-300x121.png?raw=true)
+[![Microsoft Regional Director logo](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true)](https://rd.microsoft.com/en-us/rodrigo-diazconcha)
+[![Microsoft Most Valuable Professional logo](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-300x121.png?raw=true)](https://mvp.microsoft.com/en-us/PublicProfile/4028935?fullName=Rodrigo%20Diaz%20Concha)
 
 
 
