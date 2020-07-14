@@ -1,11 +1,5 @@
 ﻿# Rodrigo Díaz Concha  👋
 
-
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true)
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-300x121.png?raw=true)
-![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_email_signature_two_b.jpg?raw=true)
-
-
 I'm a solutions architect with 20+ years of experience and a member of the Microsoft Regional Director program. I've been awarded as Microsoft MVP for over a decade, currently in the Microsoft Azure category.
 
 I'm a certified Carnegie Mellon SEI Software Architecture Professional, Scrum Alliance Certified ScrumMaster, MCSD, MCTS, MCPD, and MCP.
@@ -31,6 +25,10 @@ As the chief software architect at Lumedhealth, I build digital health and telem
 * [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/4028935?fullName=Rodrigo%20Diaz%20Concha)
 * [about.me](https://rdiazconcha.me/)
 * [Goodreads](https://goodreads.com/rdiazconcha)
+
+![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true)
+![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/MVP_Logo_Horizontal_Preferred_Cyan300_RGB_300ppi-300x121.png?raw=true)
+![](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_email_signature_two_b.jpg?raw=true)
 
 <!--
 **rdiazconcha/rdiazconcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
