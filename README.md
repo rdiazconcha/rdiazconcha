@@ -1,22 +1,27 @@
 ﻿# Rodrigo Díaz Concha  👋
 [![Search for my courses on LinkedIn Learning](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/lil_instructor_background_c.jpg?raw=true)](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha)
 
-I'm a solutions architect with 20+ years of experience and a member of the Microsoft Regional Director program. I've been awarded as Microsoft MVP for over a decade, currently in the Microsoft Azure category.
+Rodrigo Díaz Concha is a Solutions Architect, Microsoft Regional Director, and Microsoft MVP with over 25 years of experience. 
 
-I'm a certified Carnegie Mellon SEI Software Architecture Professional, Scrum Alliance Certified ScrumMaster, MCSD, MCTS, MCPD, and MCP.
+In addition to his professional roles, he is a published author, a notable speaker, and a contributing course creator for LinkedIn Learning. 
 
-As the chief software architect at Lumedhealth, I build digital health and telemedicine solutions focused on transforming people's lives. I also have the distinction of writing the first books about Microsoft Silverlight 5 and Xamarin.Forms in the Spanish language. I'm a frequent speaker at Microsoft and non-Microsoft events all over Latin America, the US, and Europe.
+Rodrigo holds dozens of professional certifications from different companies, such as Carnegie Mellon SEI Software Architecture Professional, Microsoft Certified: Azure Solutions Architect Expert, Microsoft Certified: DevOps Engineer Expert, HashiCorp products, and The Linux Foundation certifications in Kubernetes. 
+
+He is also uniquely recognized as the pioneer author of the first Silverlight 5 and Xamarin.Forms books in the Spanish language.
+
+As a Partnering Consultant at Solliance, he offers consulting and training services focused on cloud solutions. 
+
+As a LinkedIn Learning author, he creates professional training courses on Azure, Artificial Intelligence, Cloud Native Applications, and .NET technologies for the English and Spanish libraries.
+
+Rodrigo's influence extends beyond written content and online courses; he is a well-regarded speaker who regularly addresses audiences at events across the United States, Europe, and Latin America.
 
 ## My .NET Contributions
-* A frequent speaker around Latin America, the United States, and Europe speaking about .NET and Cloud Computing with Azure.
-* LinkedIn Learning author, for topics related to .NET and Azure.
-* My podcast "Interfaz Podcast" is a weekly podcast in the Spanish language (sometimes in the English language), about software architecture, development, new technologies, and soft skills, most of the time .NET technologies. After more than three years and 140+ episodes, it is listened to by thousands of people each month.
+* A frequent speaker around Latin America, the United States, and Europe speaking about .NET, Cloud Computing with Azure, and AI.
+* LinkedIn Learning author, for topics related to .NET, Azure, and AI.
 * Author of the first books about Microsoft Silverlight 5 and Xamarin.Forms in the Spanish language.
 
 ## Links
 * [My blog](https://rdiazconcha.com)
-* [Interfaz Podcast on Spotify](https://open.spotify.com/show/7wtArksEB4DCGch35CwUYU?si=L4PoaZVnT_afxPSbr66xxA)
-* [My Facebook community: .NET Latam](https://www.facebook.com/groups/diplomadowp71/)
 * [My Courses on LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha)
 
 ## Contact Information
@@ -24,7 +29,6 @@ As the chief software architect at Lumedhealth, I build digital health and telem
 * [LinkedIn](https://www.linkedin.com/in/rdiazconcha/)
 * [RD Profile](https://rd.microsoft.com/en-us/rodrigo-diazconcha)
 * [MVP Profile](https://mvp.microsoft.com/en-us/PublicProfile/4028935?fullName=Rodrigo%20Diaz%20Concha)
-* [about.me](https://rdiazconcha.me/)
 * [Goodreads](https://goodreads.com/rdiazconcha)
 
 [![Microsoft Regional Director logo](https://github.com/rdiazconcha/rdiazconcha/blob/master/media/msrd-logo-192px-alpha-300x86.png?raw=true)](https://rd.microsoft.com/en-us/rodrigo-diazconcha)
